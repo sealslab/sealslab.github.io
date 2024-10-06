@@ -1,8 +1,8 @@
 ---
 layout: archive
-title: ""
+title: "Seals Lab Presentations"
 permalink: /presentations/
-author_profile: true
+author_profile: false
 redirect_from:
   - /publications
 ---

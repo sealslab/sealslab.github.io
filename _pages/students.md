@@ -2,7 +2,7 @@
 layout: archive
 title: "Seals Lab Members"
 permalink: /students/
-author_profile: true
+author_profile: false
 redirect_from:
   - /trainees
   - /people
