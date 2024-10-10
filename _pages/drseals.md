@@ -30,7 +30,7 @@ author_profile: false
 
 <details>
 
-<summary>*Model misspecification in the frequentist framework*.</summary> 
+    <summary>*Model misspecification in the frequentist framework*.</summary> 
 
 - How are our analysis results and overall message affected when we misspecify the design matrix, underlying distribution for the outcome, or the working covariance structure.
 
