@@ -51,8 +51,8 @@ author_profile: false
   <ul>
     <li>We are interested in modeling and predicting natural phenomena and changes within our local environment.</li>
   </ul>  
-  <li>Because the University maintains an active research site on Pensacola Beach, we have natural opportunities for collaboration with the Department of Earth and Environmental Science.</ul>
-
+  <li>Because the University maintains an active research site on Pensacola Beach, we have natural opportunities for collaboration with the Department of Earth and Environmental Science.</li>
+</ul>
 </details>
 
 <details>
