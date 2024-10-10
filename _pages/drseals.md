@@ -12,15 +12,15 @@ author_profile: false
     - My dissertation was awarded the Charles R. Katholi Dissertation Award in Septemer 2013.
 - After a postdoctoral position as a research biostatistician, I rejoined the UWF Department of Mathematics and Statistics as a Visiting Assistant Professor in the fall of 2016. I am now an Associate Professor with tenure.
 
-**Statistics and Data Science Courses I Teach**
+**Statistics and Data Science Courses**
 
 - STA2023 - Elements of Statistics
-- [STA4173 - Biostatistics](https://samanthaseals.github.io/STA4173/)
+- STA4173 - Biostatistics
 - STA4222 - Sampling Theory
 - STA4234 - Regression Analysis
 - STA5176 - Statistical Modeling
-- [STA6232 - Statistics for Data Science II](https://samanthaseals.github.io/STA6232/)
-- [STA6235 - Modeling in Regression](https://samanthaseals.github.io/STA6235/)
+- STA6232 - Statistics for Data Science II
+- STA6235 - Modeling in Regression
 - STA6246 - Design and Analysis of Experiments
 - STA6257 - Advanced Statistical Modeling
 - [STA6349 - Applied Bayesian Analysis](https://samanthaseals.github.io/STA6349/)
@@ -45,7 +45,7 @@ author_profile: false
 <details>
 <summary><i>Computational environmental science.</i></summary> 
 <ul>
-  <li>Please see the *[Computational Geomorphology & Modeling Lab](https://cgmlabuwf.github.io/)*.</li>
+  <li>Please see the <a href="https://cgmlabuwf.github.io/"><i>Computational Geomorphology & Modeling Lab.</i></a></li>
   <li>How can we use mathematics and statistics to answer questions about the natural environment around us?</li>
   <ul>
     <li>We are interested in modeling and predicting natural phenomena and changes within our local environment.</li>
