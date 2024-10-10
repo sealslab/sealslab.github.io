@@ -8,7 +8,8 @@ author_profile: false
 
 - I am a native of the [Florida Panhandle](https://en.wikipedia.org/wiki/Florida_panhandle) and graduate of the [University of West Florida](https://uwf.edu/hmcse/departments/mathematics-and-statistics/). 
 - After completing the BS in Mathematics (2006) and MS in Mathematical Sciences (2008), I attended the [University of Alabama at Birmingham](https://www.uab.edu/soph/home/biostatistics) as a [NHLBI T-32 pre-doctoral trainee](https://sites.uab.edu/bstepit32/).
-- In 2013, I completed a [PhD in Biostatistics](https://digitalcommons.library.uab.edu/etd-collection/2936/) under the supervision of [Dr. Chichi Aban](https://scholars.uab.edu/1922-inmaculada-aban). 
+- In 2013, I completed thez [PhD in Biostatistics](https://digitalcommons.library.uab.edu/etd-collection/2936/) under the supervision of [Dr. Chichi Aban](https://scholars.uab.edu/1922-inmaculada-aban). 
+    - My dissertation won the 2013 Charles R. Katholi Dissertation Award.
 - After a postdoctoral position as a research biostatistician, I rejoined the UWF Department of Mathematics and Statistics as a Visiting Assistant Professor in the fall of 2016. I am now an Associate Professor with tenure.
 
 **Statistics and Data Science Courses I Teach**
