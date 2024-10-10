@@ -28,20 +28,6 @@ author_profile: false
 
 **Research Areas**
 
-<details>
-<summary><i>Model misspecification in the frequentist framework.</i></summary> 
-<ul>
-  <li>How are our analysis results and overall message affected when we misspecify the design matrix, underlying distribution for the outcome, or the working covariance structure?</li>
-  <li>How are analysis results and overall message affected when we break an assumption (or multiple assumptions) of the parametric model?</li>
-  <li>This area generally involves performing simulation studies. We do this so that we know the true value of *&theta;*, the parameter of interest and can then quantify the effects of model misspecification. 
-  <ul>
-    <li>The bias and mean square error quantify the error in parameter estimation.</li> 
-    <li>Type I error quantifies the error in statistical inference.</li>
-    <li>Model fit indices quantify the error in model selection.</li>
-  </ul>
-</ul>
-
-</details>
 
 <details>
 <summary><i>Computational environmental science.</i></summary> 
