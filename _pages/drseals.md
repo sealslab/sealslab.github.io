@@ -6,10 +6,10 @@ author_profile: false
 
 **About Dr. Seals**
 
-- I am a native of the [Florida Panhandle](https://en.wikipedia.org/wiki/Florida_panhandle) and graduate of the [University of West Florida](https://uwf.edu/hmcse/departments/mathematics-and-statistics/). 
-- After completing the BS in Mathematics (2006) and MS in Mathematical Sciences (2008), I attended the [University of Alabama at Birmingham](https://www.uab.edu/soph/home/biostatistics) as a [NHLBI T-32 pre-doctoral trainee](https://sites.uab.edu/bstepit32/).
-- In 2013, I completed thez [PhD in Biostatistics](https://digitalcommons.library.uab.edu/etd-collection/2936/) under the supervision of [Dr. Chichi Aban](https://scholars.uab.edu/1922-inmaculada-aban). 
-    - My dissertation won the 2013 Charles R. Katholi Dissertation Award.
+- I am a native of the [Florida Panhandle](https://en.wikipedia.org/wiki/Florida_panhandle) and graduate of the [Department of Mathematics and Statistics](https://uwf.edu/hmcse/departments/mathematics-and-statistics/) at the [University of West Florida](https://uwf.edu/). 
+- After completing the BS in Mathematics (2006) and MS in Mathematical Sciences (2008), I joined the [Department of Biostatistics](https://www.uab.edu/soph/home/biostatistics) at the [University of Alabama at Birmingham](https://www.uab.edus) as a [NHLBI T32 pre-doctoral trainee](https://sites.uab.edu/bstepit32/).
+- In July 2013, I completed the [PhD in Biostatistics](https://digitalcommons.library.uab.edu/etd-collection/2936/) under the supervision of [Dr. Chichi Aban](https://scholars.uab.edu/1922-inmaculada-aban). 
+    - My dissertation was awarded the Charles R. Katholi Dissertation Award in Septemer 2013.
 - After a postdoctoral position as a research biostatistician, I rejoined the UWF Department of Mathematics and Statistics as a Visiting Assistant Professor in the fall of 2016. I am now an Associate Professor with tenure.
 
 **Statistics and Data Science Courses I Teach**
@@ -29,8 +29,7 @@ author_profile: false
 **Research Areas**
 
 <details>
-
-    <summary>*Model misspecification in the frequentist framework*.</summary> 
+<summary><i>Model misspecification in the frequentist framework.</i></summary> 
 
 - How are our analysis results and overall message affected when we misspecify the design matrix, underlying distribution for the outcome, or the working covariance structure.
 
@@ -41,8 +40,7 @@ author_profile: false
 </details>
 
 <details>
-
-<summary>*Computational environmental science.*</summary> 
+<summary><i>Computational environmental science.</i></summary> 
 
 - Please see the *[Computational Geomorphology & Modeling Lab](https://cgmlabuwf.github.io/)*.
 
@@ -55,8 +53,7 @@ author_profile: false
 </details>
 
 <details>
-
-<summary>*Education: both general STEM and discipline-specific*</summary> 
+<summary><i>Education: both general STEM and discipline-specific</i></summary> 
 
 - What are the longitudinal effects of student-led interventions in gateway STEM courses?
 
@@ -73,8 +70,7 @@ author_profile: false
 **Want to Work Together?**
 
 <details>
-
-<summary>*Are you are a researcher interested in collaborating with us?*</summary>
+<summary><i>Are you are a researcher interested in collaborating with us?</i></summary>
 
 - As a result of my extensive biostatistics training and experience, I truly love collaborating with other researchers, especially students. Please note that our skills are not only applicable to "science" topics -- our skills are applicable to anywhere there's data!
 
@@ -85,8 +81,7 @@ author_profile: false
 </details>
 
 <details>
-
-<summary>*Are you a student interested in collaborative statistics?*</summary>
+<summary><i>Are you a student interested in collaborative statistics?</i></summary>
 
 - As a collaborative researcher and educator, I especially enjoy including students in collaborative projects. My goal is to model how to form and maintain respectful and productive collaborative relationships. 
 
@@ -98,7 +93,7 @@ author_profile: false
 
 <details>
 
-<summary>*Are you a student interested breaking the rules of statistics?*</summary>
+<summary><i>Are you a student interested breaking the rules of statistics?</i></summary>
 
 - As a curious mathematician and statistician, I have a lot of "what happens to analysis results when this assumption is broken?" questions ready for students to answer via Proseminar or Capstone.
 
