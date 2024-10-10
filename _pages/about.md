@@ -21,12 +21,12 @@ The **Seals Lab for Quantitative Science** focuses on three areas:
 **News**
 
 <details>
-<summary>*News 1*</summary>
+<summary>*News 1*.</summary>
 - Info here
 </details>
 
 <details>
-<summary>*News 2*</summary>
+<summary>*News 2*.</summary>
 - Info here
 </details>
 
