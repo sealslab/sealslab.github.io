@@ -28,40 +28,52 @@ author_profile: false
 **Research Areas**
 
 <details>
+
 <summary>*Model misspecification in the frequentist framework*.</summary> 
+
 - How are our analysis results and overall message affected when we misspecify the design matrix, underlying distribution for the outcome, or the working covariance structure.
 - How are analysis results and overall message affected when we break an assumption (or multiple assumptions) of the parametric model?
 - This area generally involves performing simulation studies. We do this so that we know the true value of *&theta;*, the parameter of interest. We then explore the bias and mean square error to quantify the effects of model misspecification. We can also look at model fit indices to determine how choice of underlying distribution, working covariance structure, or design matrix will affect selection of the correct model.
+
 </details>
 
 <details>
+
 <summary>*Computational environmental science.*</summary> 
+
 - Please see the *[Computational Geomorphology & Modeling Lab](https://cgmlabuwf.github.io/)*.
 - How can we use mathematics and statistics to answer questions about the natural environment around us? 
     - We are interested in modeling and predicting natural phenomena and changes within our local environment. 
 - Because the University maintains an active research site on Pensacola Beach, we have natural opportunities for collaboration with the Department of Earth and Environmental Science.
+
 </details>
 
 <details>
+
 <summary>*Education: both general STEM and discipline-specific*</summary> 
+
 - What are the longitudinal effects of student-led interventions in gateway STEM courses?
 - What instructional tools improve student outcomes in the statistics classroom? 
 - How are student learning outcomes impacted when STEM courses naturally infuse statistics into the curriculum?
 - When are significant learning gains made during statistics and data science graduate programs? 
     - Is there a difference in when learning gains are made between those in statistics, biostatistics, and data science programs?
+    
 </details> <br>
 
 **Want to Work Together?**
 
 <details>
+
 <summary>*Are you are a researcher interested in collaborating with us?*</summary>
 
 - As a result of my extensive biostatistics training and experience, I truly love collaborating with other researchers, especially students. Please note that our skills are not only applicable to "science" topics -- our skills are applicable to anywhere there's data!
 - Please reach out if you think this may be a good fit! It is a wonderful experience to see how students begin connecting the dots, understanding their role as partners in scientific research.
 - The main expectations within collaborations include a reasonable timeline for project deliverables and formal co-authorship for both the lab director and collaborating student on any resulting presentation or manuscript.
+
 </details>
 
 <details>
+
 <summary>*Are you a student interested in collaborative statistics?*</summary>
 
 - As a collaborative researcher and educator, I especially enjoy including students in collaborative projects. My goal is to model how to form and maintain respectful and productive collaborative relationships. 
@@ -71,6 +83,7 @@ author_profile: false
 </details> 
 
 <details>
+
 <summary>*Are you a student interested breaking the rules of statistics?*</summary>
 
 - As a curious mathematician and statistician, I have a lot of "what happens to analysis results when this assumption is broken?" questions ready for students to answer via Proseminar or Capstone. 
