@@ -1,6 +1,6 @@
 ---
 title: "Dr. Samantha Seals"
-permalink: /students/
+permalink: /drseals/
 author_profile: false
 ---
 
