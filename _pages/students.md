@@ -69,7 +69,7 @@ Mechanism Determination: A Simulation Study.</i>
 </details>
 
 <details>
-  <summary>Christlene Amitie, MS, BS</summary>
+  <summary>Christlene Amitie, BS</summary>
 * Proseminar project (Fall 2018): <i>Predicting Hypertension and Diabetes in Southern African Americans: Data from the Jackson Heart Study.</i> BS-Mathematics.
 </details>
 
@@ -79,14 +79,18 @@ Mechanism Determination: A Simulation Study.</i>
 </details>
 
 <details>
-<summary>Margret (Peggy) Wisdom, MS, BS. </summary>
-* Proseminar project, Fall 2018: <i>Student-Based Behaviors among African Americans in the Buckle of the Stroke Belt.</i>
+<summary>Margret (Peggy) Wisdom, MS </summary>
+* Proseminar project, Fall 2018: <i>Student-Based Outcomes in University Physics I: What are Predictors of Student Success?</i>
 </details>
 
 <details>
-<summary>Margret (Peggy) Wisdom, MS, BS. </summary>
-<summary>Margret (Peggy) Wisdom, MS, BS. </summary>
-* Proseminar project, Fall 2018: <i>Student-Based Behaviors among African Americans in the Buckle of the Stroke Belt.</i>
+<summary>Audrey Moore, MS.</summary>
+* Proseminar project, Fall 2017: <i>Predictors of Knowledge of Stroke and Heart Attack Symptoms and Intent to Call 911 among Black/African Americans.</i>
+</details>
+
+<details>
+<summary>Brandon Smith, MS.</summary>
+* Proseminar project, Fall 2017: <i>Large Enough? Determining the Necessary Sample Size to Apply the Central Limit Theorem.</i>
 </details>
 
 
