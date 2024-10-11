@@ -63,19 +63,32 @@ Mechanism Determination: A Simulation Study.</i>
     * This project received internal funding from the UWF Office of Undergraduate Research.
 </details>
 
-    
-* , Summer 2019. <i></i> BS-Mathematics
-    * This project received internal funding from the UWF Office of Undergraduate Research.
-* Randi Barnes, Spring 2019. <i>Dropout Rates in Texas Public Schools: A Longitudinal Analysis.</i> MS-Mathematical Science.
-* Christlene Amitie, Fall 2018. <i>Predicting Hypertension and Diabetes in Southern African Americans: Data from the Jackson Heart Study.</i> BS-Mathematics.
-* Daniel Moulder, Fall 2018. <i>Estimating Sea Oat Coverage at Pensacola Beach: An Application of Adaptive Cluster Sampling.</i> BS-Mathematics.
-* Margret (Peggy) Wisdom, Fall 2018. <i>Student-Based Outcomes in University Physics I: What Are Predictors of Student Success?</i> MS-Mathematical Science.
-* Brooke Davis, Spring 2018. <i>Association of Obesity with Health Behaviors among African Americans in the Buckle of the Stroke Belt.</i> 
-    * This project received funding from the Federal Work Study program.
-* Audrey Moore, Fall 2017. <i>Predictors of Knowledge of Stroke and Heart Attack Symptoms and Intent to Call 911 among Black/African Americans. MS-Mathematical Science. 
-* Brandon Smith, Fall 2017. <i>Large Enough? Determining the Necessary Sample Size to Apply the Central Limit Theorem.</i> MS-Mathematical Science.
+<details>
+  <summary>Randi Barnes, MS, BS</summary>
+* Proseminar project (Fall 2019):  <i>Dropout Rates in Texas Public Schools: A Longitudinal Analysis.</i> MS-Mathematical Science.
+</details>
+
+<details>
+  <summary>Christlene Amitie, MS, BS</summary>
+* Proseminar project (Fall 2018): <i>Predicting Hypertension and Diabetes in Southern African Americans: Data from the Jackson Heart Study.</i> BS-Mathematics.
+</details>
+
+<details>
+<summary>Daniel Moulder, BS</summary>
+* Proseminar project, Fall 2018. <i>Estimating Sea Oat Coverage at Pensacola Beach: An Application of Adaptive Cluster Sampling.</i> BS-Mathematics.
+</details>
+
+<details>
+<summary>Margret (Peggy) Wisdom, MS, BS. </summary>
+* Proseminar project, Fall 2018: <i>Student-Based Behaviors among African Americans in the Buckle of the Stroke Belt.</i>
+</details>
+
+<details>
+<summary>Margret (Peggy) Wisdom, MS, BS. </summary>
+<summary>Margret (Peggy) Wisdom, MS, BS. </summary>
+* Proseminar project, Fall 2018: <i>Student-Based Behaviors among African Americans in the Buckle of the Stroke Belt.</i>
 </details>
 
 
 <!--*Salina Randall, MEd: MS, Data Science-->
-<!--*Lucas Alderfer: MS, Data Science-->
+<!--*Lucas Aldefer: MS, Data Science-->
