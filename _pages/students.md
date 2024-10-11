@@ -36,7 +36,7 @@ Mechanism Determination: A Simulation Study.</i>
 </details>
 
 <details>
-  <summary>Alyssa Selvey, MS, BS</summary>
+  <summary>Alyssa Selvey, BS</summary>
 * Proseminar project (Spring 2021):  <i>A Longitudinal Analysis of Waterfowl Abundance in Escambia, Santa Rosa, and Baldwin Counties.</i> BS-Mathematics.
     * This project received external funding from Pensacola and Perdido Bays Estuary Program.
 </details>
@@ -58,13 +58,13 @@ Mechanism Determination: A Simulation Study.</i>
 </details>
 
 <details>
-  <summary>Tyler Watson, MS, BS</summary>
+  <summary>Tyler Watson, BS</summary>
 * Proseminar project (Fall 2019):  <i>A Statistical Analysis of Coastal Beach Morphology by Citizen Scientists.</i> 
     * This project received internal funding from the UWF Office of Undergraduate Research.
 </details>
 
 <details>
-  <summary>Randi Barnes, MS, BS</summary>
+  <summary>Randi Barnes, MS</summary>
 * Proseminar project (Fall 2019):  <i>Dropout Rates in Texas Public Schools: A Longitudinal Analysis.</i> MS-Mathematical Science.
 </details>
 
@@ -84,12 +84,12 @@ Mechanism Determination: A Simulation Study.</i>
 </details>
 
 <details>
-<summary>Audrey Moore, MS.</summary>
+<summary>Audrey Moore, MS</summary>
 * Proseminar project, Fall 2017: <i>Predictors of Knowledge of Stroke and Heart Attack Symptoms and Intent to Call 911 among Black/African Americans.</i>
 </details>
 
 <details>
-<summary>Brandon Smith, MS.</summary>
+<summary>Brandon Smith, MS</summary>
 * Proseminar project, Fall 2017: <i>Large Enough? Determining the Necessary Sample Size to Apply the Central Limit Theorem.</i>
 </details>
 
