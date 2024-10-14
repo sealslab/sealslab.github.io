@@ -4,8 +4,8 @@ main:
   - title: "Dr. Samantha Seals"
     url: /drseals/
 
-  - title: "Students"
-    url: /students/    
+#  - title: "Students"
+#    url: /students/    
 
   - title: "Presentations"
     url: /presentations/ 
