@@ -19,8 +19,9 @@ author_profile: false
 ------
 <details>
   <summary>Rachel Ledford, BA</summary>
-  
-* Proseminar project (Spring 2024): <i>Profiling Pensacola Beach: One Field Trip for Multiple Lesson Plans.</i> 
+  <ul>
+    <li>Proseminar project (Spring 2024): <i>Profiling Pensacola Beach: One Field Trip for Multiple Lesson Plans.</i> </li>
+  </ul>
 </details>
 
 <details>
