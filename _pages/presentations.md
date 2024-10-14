@@ -7,5 +7,5 @@ author_profile: false
 Fall 2024
 ------
 * Hunter Evans, Title
-* Cheyenne Long, Title
+* Cheyenne Long, Title 
 
