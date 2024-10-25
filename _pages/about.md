@@ -27,6 +27,7 @@ The <b>Seals Lab for Quantitative Science</b> focuses on three areas:
 </ol>
 
 Note: If you are specifically interested in computational environmental science research (either applied statistics or methodological explorations in the context of earth and environmental science), please see the <a href="https://cgmlabuwf.github.io/">Computational Geomorphology & Modeling Lab</a>.    
+<br><br>
 
 <b>Upcoming Events</b> 
 
