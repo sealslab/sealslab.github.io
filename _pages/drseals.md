@@ -7,10 +7,11 @@ author_profile: false
 **About Dr. Seals**
 
 - I am a native of the [Florida Panhandle](https://en.wikipedia.org/wiki/Florida_panhandle) and graduate of the [Department of Mathematics and Statistics](https://uwf.edu/hmcse/departments/mathematics-and-statistics/) at the [University of West Florida](https://uwf.edu/). 
-- After completing the BS in Mathematics (2006) and MS in Mathematical Sciences (2008), I joined the [Department of Biostatistics](https://www.uab.edu/soph/home/biostatistics) at the [University of Alabama at Birmingham](https://www.uab.edus) as a [NHLBI T32 pre-doctoral trainee](https://sites.uab.edu/bstepit32/).
-- In July 2013, I completed the [PhD in Biostatistics](https://digitalcommons.library.uab.edu/etd-collection/2936/) under the supervision of [Dr. Chichi Aban](https://scholars.uab.edu/1922-inmaculada-aban). 
-    - My dissertation was awarded the Charles R. Katholi Dissertation Award in Septemer 2013.
-- After a postdoctoral position as a research biostatistician, I rejoined the UWF Department of Mathematics and Statistics as a Visiting Assistant Professor in the fall of 2016. I am now an Associate Professor with tenure.
+- After completing the BS in Mathematics (2006) and MS in Mathematical Sciences (2008), I joined the [Department of Biostatistics](https://www.uab.edu/soph/home/biostatistics) at the [University of Alabama at Birmingham](https://www.uab.edu) as a [NHLBI T32 pre-doctoral trainee](https://sites.uab.edu/bstepit32/) in cardiovascular disease.
+- In July 2013, I defended [my dissertation](https://digitalcommons.library.uab.edu/etd-collection/2936/) under the supervision of [Dr. Chichi Aban](https://scholars.uab.edu/1922-inmaculada-aban). 
+    - I was awarded the [Charles R. Katholi Dissertation Award](https://bb.uab.edu/soph/home/news/awards/other) in September 2013.
+- After a postdoctoral position as a research biostatistician, I rejoined the UWF Department of Mathematics and Statistics as a Visiting Assistant Professor in the fall of 2016. In 2018, I moved to a tenure-track Assistant Professor line, and I am now an Associate Professor with tenure.
+    - [Dr. Seals's departmental webpage](https://uwf.edu/hmcse/departments/mathematics-and-statistics/faculty/dr-samantha-seals.html)
 
 **Statistics and Data Science Courses**
 
@@ -33,7 +34,7 @@ author_profile: false
 <ul>
   <li>How are our analysis results and overall message affected when we misspecify the design matrix, underlying distribution for the outcome, or the working covariance structure?</li>
   <li>How are analysis results and overall message affected when we break an assumption (or multiple assumptions) of the parametric model?</li>
-  <li>This area generally involves performing simulation studies. We do this so that we know the true value of *&theta;*, the parameter of interest and can then quantify the effects of model misspecification. </li>
+  <li>This area generally involves performing simulation studies. We do this so that we know the true value of <i>&theta;</i>, the parameter of interest and can then quantify the effects of model misspecification. </li>
   <ul>
     <li>The bias and mean square error quantify the error in parameter estimation.</li> 
     <li>Type I error quantifies the error in statistical inference.</li>
