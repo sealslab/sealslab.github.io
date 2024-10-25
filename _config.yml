@@ -251,6 +251,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+  - jekyll-spaceship
 
 # Mimic GitHub Pages with --safe
 whitelist:
@@ -259,6 +260,8 @@ whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+  - plugins:
+  - jekyll-spaceship
 
 
 # Archives
