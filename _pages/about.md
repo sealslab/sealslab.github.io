@@ -31,7 +31,7 @@ Note: If you are specifically interested in computational environmental science 
 <b>Upcoming Events</b> 
 
 <ul>
-  <li>L<b>2024-11-24</b>: Hunter Evans and Cheyenne Long are presenting their Proseminar projects.</li>
+  <li><b>2024-11-24</b>: Hunter Evans and Cheyenne Long are presenting their Proseminar projects.</li>
 </ul>  
 
 <!-- **News** -->
