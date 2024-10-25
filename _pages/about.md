@@ -4,24 +4,16 @@ permalink: /
 author_profile: false
 ---
 
-:::: {.columns}
-
-::: {.column width="20%"}
-
-<center>
-<img src = "https://raw.githubusercontent.com/sealslab/sealslab.github.io/refs/heads/master/files/logo/hex.png" width=200>
-</center>
-
-![]("")
-
-
-:::
-
-::: {.column width="10%"}
-<!-- empty column to create gap -->
-:::
-
-::: {.column width="70%"}
+<table>
+    <tr>
+        <td> <!-- Row 1, Col 1 -->
+          <center>
+          <img src = "https://raw.githubusercontent.com/sealslab/sealslab.github.io/refs/heads/master/files/logo/hex.png" width=200>
+          </center>
+        </td>
+        <td> <!-- Row 1, Col 2 -->
+        </td>
+        <td> <!-- Row 1, Col 3 -->
 The **Seals Lab for Quantitative Science** focuses on three areas:
 
 1. The application of statistics to other sciences, such as environmental science, ecology, epidemiology, medicine, and public health.
@@ -47,11 +39,5 @@ Note: If you are specifically interested in computational environmental science 
 <br>
 <br>
 <br>
-
-:::
-
-::::
-
-
-
-
+        </td>
+</table>
