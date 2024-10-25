@@ -1,18 +1,18 @@
 ---
-title: "Seals Lab for Quantitative Science"
+title: " "
 permalink: /
 author_profile: false
 ---
 
 <div style="display: flex;">
 
-<div style="flex: 1; padding: 10px;">
+<div style="flex: 20%; padding: 10px;">
 <center>
 <img src = "https://raw.githubusercontent.com/sealslab/sealslab.github.io/refs/heads/master/files/logo/hex.png" width=200>
 </center>
 </div>
 
-<div style="flex: 1; padding: 10px;">
+<div style="flex: 80%; padding: 10px;">
 The **Seals Lab for Quantitative Science** focuses on three areas:
 
 1. The application of statistics to other sciences, such as environmental science, ecology, epidemiology, medicine, and public health.
