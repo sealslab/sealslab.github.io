@@ -12,7 +12,7 @@ author_profile: false
 </center>
 </div>
 
-<div style="flex: 75%; padding: 10px;">
+<div style="flex: 75%; padding: 1px;">
 The <b>Seals Lab for Quantitative Science</b> focuses on three areas:
 
 <ol>
