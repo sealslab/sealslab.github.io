@@ -16,7 +16,7 @@ author_profile: false
 The <b>Seals Lab for Quantitative Science</b> focuses on three areas:
 
 <ol>
-  <li>The application of statistics to other sciences, such as environmental science, ecology, epidemiology, medicine, and public health.</li>
+  <li>The application of statistics to other sciences, such as environmental science, ecology, epidemiology, and medicine.</li>
   <li>Simulation studies to determine what happens when statistical models are misspecified.</li>
   <li>Topics in STEM education: </li>
   <ol>
@@ -28,9 +28,11 @@ The <b>Seals Lab for Quantitative Science</b> focuses on three areas:
 
 Note: If you are specifically interested in computational environmental science research (either applied statistics or methodological explorations in the context of earth and environmental science), please see the <a href="https://cgmlabuwf.github.io/">Computational Geomorphology & Modeling Lab</a>.    
 
-<b>Upcoming Events</b>
+<b>Upcoming Events</b> 
 
-- <b>2024-11-24</b>: Hunter Evans and Cheyenne Long are presenting their Proseminar projects.
+<ul>
+  <li>L<b>2024-11-24</b>: Hunter Evans and Cheyenne Long are presenting their Proseminar projects.</li>
+</ul>  
 
 <!-- **News** -->
 
