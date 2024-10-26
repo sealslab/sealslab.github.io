@@ -12,7 +12,7 @@ STEM Education
 
     * Article was featured by the National Science Teaching Association.
 
-* Li K, "<b>Seals SR</b>. <a href="http://www.ijiet.org/show-186-2426-1.html">An Assessment of Master's Degree Programs Pre- and Post-Pandemic</a>," the <i>International Journal of Learning and Teaching</i>, 2023, 13(3): 505-509.
+* Li K, <b>Seals SR</b>. "<a href="http://www.ijiet.org/show-186-2426-1.html">An Assessment of Master's Degree Programs Pre- and Post-Pandemic</a>," the <i>International Journal of Learning and Teaching</i>, 2023, 13(3): 505-509.
 
 * Li K, Stone E, <b>Seals SR</b>. "<a href="https://www.learntechlib.org/p/219805/">E-Learning During COVID-19: Social Sciences MA Programs vs Mathematics MS Programs</a>," <i>International Journal of e-Learning</i>, 2022, 381-399.
 
