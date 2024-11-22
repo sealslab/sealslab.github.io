@@ -1,5 +1,6 @@
 ---
 title: " "
+permalink: /students/
 author_profile: false
 ---
 
