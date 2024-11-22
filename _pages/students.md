@@ -6,25 +6,23 @@ author_profile: false
 
 <b>Graduate Students:</b><br>
 
-<div class="col-wrapper">
-    <div class="col col-450"><center><img src="https://raw.githubusercontent.com/sealslab/sealslab.github.io/refs/heads/master/files/headshots/geng_shijie.png" width=200> <br>
-Shijie Geng, MS</center></div>
-    <div class="col col-450"><center><img src="https://raw.githubusercontent.com/sealslab/sealslab.github.io/refs/heads/master/files/headshots/moore_audrey.jpg" width=200> <br>
-Audrey Moore, MS</center></div>
-</div>
+<table>
+  <tr>
+    <th><center><img src="https://raw.githubusercontent.com/sealslab/sealslab.github.io/refs/heads/master/files/headshots/geng_shijie.png" width=200><br>Shijie Geng, MS</th>
+    <th><center><img src="https://raw.githubusercontent.com/sealslab/sealslab.github.io/refs/heads/master/files/headshots/moore_audrey.jpg" width=200><br>Audrey Moore, MS</center></th>
+    <th></th>
+  </tr>
+</table>
+
 
 <b>Undergraduate Students:</b> <br>
 
-<div class="col-wrapper">
-    <div class="col col-450"><center><img src="<center><img src="https://raw.githubusercontent.com/sealslab/sealslab.github.io/refs/heads/master/files/headshots/long_cheyenne.jpeg" width=200 width=200> <br>
-Cheyenne Long</center></div>
-    <div class="col col-450"><center><center><img src="https://raw.githubusercontent.com/sealslab/sealslab.github.io/refs/heads/master/files/headshots/evans_hunter.png" width=200><br>
-Hunter Evans</center></div>
-</div>
-
-<div class="col-wrapper">
-    <div class="col col-450"><center><img src="https://raw.githubusercontent.com/sealslab/sealslab.github.io/refs/heads/master/files/headshots/scamardo_angelina.jpg" width=200> <br>
-Angelina Scamardo</center></div>
-    <div class="col col-450">&nbsp;</div>
-</div>
+<table>
+  <tr>
+    <th><center><img src="<center><img src="https://raw.githubusercontent.com/sealslab/sealslab.github.io/refs/heads/master/files/headshots/long_cheyenne.jpeg" width=200 width=200><br>Cheyenne Long</center></th>
+    <th><center><img src="https://raw.githubusercontent.com/sealslab/sealslab.github.io/refs/heads/master/files/headshots/evans_hunter.png" width=200><br>
+Hunter Evans</center></th>
+    <th><center><img src="https://raw.githubusercontent.com/sealslab/sealslab.github.io/refs/heads/master/files/headshots/scamardo_angelina.jpg" width=200><br>Angelina Scamardo</center></th>
+  </tr>
+</table>
 
