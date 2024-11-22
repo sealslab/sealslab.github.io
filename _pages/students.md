@@ -23,8 +23,8 @@ Hunter Evans</center></div>
 </div>
 
 <div class="col-wrapper">
-    <div class="col col-450"><center><img src="https://raw.githubusercontent.com/sealslab/sealslab.github.io/refs/heads/master/files/headshots/scarmardo_angelina.jpg" width=200> <br>
-Angelina Scarmardo</center></div>
-    <div class="col col-450"></div>
+    <div class="col col-450"><center><img src="https://raw.githubusercontent.com/sealslab/sealslab.github.io/refs/heads/master/files/headshots/scamardo_angelina.jpg" width=200> <br>
+Angelina Scamardo</center></div>
+    <div class="col col-450">&nbsp;</div>
 </div>
 
