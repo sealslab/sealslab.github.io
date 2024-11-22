@@ -6,7 +6,7 @@ author_profile: false
 
 <b>Graduate Students:</b><br>
 
-<table>
+<table border="0" style="border-collapse: collapse;">
   <tr>
     <td style="text-align:center;">
       <img src="https://raw.githubusercontent.com/sealslab/sealslab.github.io/refs/heads/master/files/headshots/geng_shijie.png" width="200"><br>Shijie Geng, MS
@@ -19,7 +19,7 @@ author_profile: false
 
 <b>Undergraduate Students:</b> <br>
 
-<table>
+<table border="0" style="border-collapse: collapse;">
   <tbody>
     <tr>
       <td style="text-align:center;">
