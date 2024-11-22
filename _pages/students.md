@@ -4,17 +4,6 @@ permalink: /students/
 author_profile: false
 ---
 
-<b>Undergraduate Students</b> 
-------
-* Hunter Evans (Mathematics)
-* Cheyenne Long (Mathematics)
-* Angelina Scamardo (Mathematics)
-
-<b>Graduate Students</b>
-------
-* Shijie Geng (Data Science)
-* Audrey Moore, MS (Data Science)
-
 <b>Graduate Students</b>
 
 <div style="display: flex;">
