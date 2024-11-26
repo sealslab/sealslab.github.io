@@ -1,5 +1,4 @@
 ---
-title: "Dr. Samantha Seals"
 permalink: /drseals/
 author_profile: false
 ---

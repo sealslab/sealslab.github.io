@@ -34,3 +34,16 @@ author_profile: false
     </tr>
   </tbody>
 </table>
+
+<b>Alumni:</b><br>
+
+<table style="border: none; border-collapse: collapse; width: 100%;">
+  <tbody>
+    <tr>
+      <td style="text-align:center; border: none;">
+        <img src="https://raw.githubusercontent.com/sealslab/sealslab.github.io/refs/heads/master/files/headshots/penguin.png" width="200"><br>Ihsan Buker
+      </td>
+    </tr>
+  </tbody>
+</table>
+
