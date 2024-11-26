@@ -8,9 +8,7 @@ Please note that these are not *all* publications, but a subset relevant to SLQS
 <b>STEM Education:</b><br>
 
 <ul>
-<li>Buker I, <b>Seals S</b>. <i>classpackage: Functions for Intro
-  Statistics Courses at the University of West Florida</i>, 2024. R package
-  version 0.0.0.9000, <a href = "https://github.com/ieb2/classpackage">https://github.com/ieb2/classpackage</a>.</li>
+<li>Buker I, <b>Seals S</b>. <i>classpackage: Functions for Intro Statistics Courses at the University of West Florida</i>, 2024. R package version 0.0.0.9000, <a href = "https://github.com/ieb2/classpackage">https://github.com/ieb2/classpackage</a>.</li>
 <li>Swann L, Hall JL, Vaccaro-Garska K, <b>Seals SR</b>, Benz P. <a href = "https://www.nsta.org/journal-college-science-teaching/journal-college-science-teaching-fall-2023/development-and">Development and Implementation of an Undergraduate STEM Peer Coaching Program</a>, <i>Journal of College Science Teaching</i>, 2023, 52(7): 43-49. * <i>Article was featured by the National Science Teaching Association.</i></li>
 <li>Li K, <b>Seals SR</b>. <a href="http://www.ijiet.org/show-186-2426-1.html">An Assessment of Master's Degree Programs Pre- and Post-Pandemic</a>, the <i>International Journal of Learning and Teaching</i>, 2023, 13(3): 505-509.</li>
 <li>Li K, Stone E, <b>Seals SR</b>. <a href="https://www.learntechlib.org/p/219805/">E-Learning During COVID-19: Social Sciences MA Programs vs Mathematics MS Programs</a>, <i>International Journal of e-Learning</i>, 2022, 381-399.</li>
