@@ -29,10 +29,10 @@ The <b>Seals Lab for Quantitative Science</b> focuses on three areas:
 Note: If you are specifically interested in computational environmental science research (either applied statistics or methodological explorations in the context of earth and environmental science), please see the <a href="https://cgmlabuwf.github.io/">Computational Geomorphology & Modeling Lab</a>.    
 <br><br>
 
-<b>Upcoming Events</b> 
+<b>News:</b> 
 
 <ul>
-  <li><b>2024-11-24</b>: Hunter Evans and Cheyenne Long are presenting their Proseminar projects.</li>
+  <li><b>2024-11-22:</b> Hunter Evans and Cheyenne Long presented their Proseminar projects.</li>
 </ul>  
 
 <!-- **News** -->
