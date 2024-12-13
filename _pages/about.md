@@ -2,6 +2,7 @@
 title: " "
 permalink: /
 author_profile: false
+sitemap: false
 ---
 
 <div style="display: flex;">

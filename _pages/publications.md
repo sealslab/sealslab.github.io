@@ -1,6 +1,7 @@
 ---
 permalink: /publications/
 author_profile: false
+sitemap: false
 ---
 
 Please note that these are not *all* publications, but a subset relevant to SLQS activities.

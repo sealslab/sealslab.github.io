@@ -1,6 +1,7 @@
 ---
 permalink: /presentations/
 author_profile: false
+sitemap: false
 ---
 
 <b>Fall 2024:</b><br>

@@ -1,30 +1,14 @@
 ---
 permalink: /drseals/
 author_profile: false
+sitemap: false
 ---
 
 **About Dr. Seals**
 
-- I am a native of the [Florida Panhandle](https://en.wikipedia.org/wiki/Florida_panhandle) and graduate of the [Department of Mathematics and Statistics](https://uwf.edu/hmcse/departments/mathematics-and-statistics/) at the [University of West Florida](https://uwf.edu/). 
-- After completing the BS in Mathematics (2006) and MS in Mathematical Sciences (2008), I joined the [Department of Biostatistics](https://www.uab.edu/soph/home/biostatistics) at the [University of Alabama at Birmingham](https://www.uab.edu) as a [NHLBI T32 pre-doctoral trainee](https://sites.uab.edu/bstepit32/) in cardiovascular disease.
-- In July 2013, I defended [my dissertation](https://digitalcommons.library.uab.edu/etd-collection/2936/) under the supervision of [Dr. Chichi Aban](https://scholars.uab.edu/1922-inmaculada-aban). 
-    - I was awarded the [Charles R. Katholi Dissertation Award](https://bb.uab.edu/soph/home/news/awards/other) in September 2013.
-- After a postdoctoral position as a research biostatistician, I rejoined the UWF Department of Mathematics and Statistics as a Visiting Assistant Professor in the fall of 2016. In 2018, I moved to a tenure-track Assistant Professor line, and I am now an Associate Professor with tenure.
-    - [Dr. Seals's departmental webpage](https://uwf.edu/hmcse/departments/mathematics-and-statistics/faculty/dr-samantha-seals.html)
+- You can read more about me on my [website](http://samanthaseals.github.io)!
 
-**Statistics and Data Science Courses**
-
-- STA2023 - Elements of Statistics
-- STA4173 - Biostatistics
-- STA4222 - Sampling Theory
-- STA4234 - Regression Analysis
-- STA5176 - Statistical Modeling
-- STA6232 - Statistics for Data Science II
-- STA6235 - Modeling in Regression
-- STA6246 - Design and Analysis of Experiments
-- STA6257 - Advanced Statistical Modeling
-- [STA6349 - Applied Bayesian Analysis](https://samanthaseals.github.io/STA6349/)
-- [IDC6940 - Data Science Capstone](https://capstone4ds.github.io/)
+- Briefly, I am a Pensacola native and earned both a BS in mathematics and a MS in mathematical sciences here at the University of West Florida. I then moved to Birmingham and attended the University of Alabama at Birmingham, where I earned a PhD in biostatistics.
 
 **Research Areas**
 

@@ -1,7 +1,7 @@
 ---
-title: " "
 permalink: /students/
 author_profile: false
+sitemap: false
 ---
 
 <b>Graduate Students:</b><br>
