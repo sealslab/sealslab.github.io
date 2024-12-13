@@ -41,7 +41,7 @@ sitemap: false
         <img src="https://raw.githubusercontent.com/sealslab/sealslab.github.io/refs/heads/master/files/headshots/evans_hunter.png" width="200"><br>Hunter Evans (2024)
       </td>
       <td style="text-align:center; border: none;">
-        <img src="https://raw.githubusercontent.com/sealslab/sealslab.github.io/refs/heads/master/files/headshots/penguin.png" width="200"><br>Ihsan Buker, BS (2023)
+        <img src="https://raw.githubusercontent.com/sealslab/sealslab.github.io/refs/heads/master/files/headshots/penguin.png" width="200"><br>Ihsan Buker (2023)
       </td>
     </tr>
   </tbody>
