@@ -20,7 +20,7 @@ sitemap: false
   <tbody>
     <tr>
       <td style="text-align:center; border: none;">
-        <img src="https://raw.githubusercontent.com/sealslab/sealslab.github.io/refs/heads/master/files/headshots/adams_dru.jpg" width="200"><br>Angelina Scamardo
+        <img src="https://raw.githubusercontent.com/sealslab/sealslab.github.io/refs/heads/master/files/headshots/adams_dru.png" width="200"><br>Dru Adams
       </td>
       <td style="text-align:center; border: none;">
         <img src="https://raw.githubusercontent.com/sealslab/sealslab.github.io/refs/heads/master/files/headshots/scamardo_angelina.jpg" width="200"><br>Angelina Scamardo
