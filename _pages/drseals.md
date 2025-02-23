@@ -6,9 +6,7 @@ sitemap: false
 
 **About Dr. Seals**
 
-You can read more about me on my [website](http://samanthaseals.github.io)! 
-
-Briefly, I am a Pensacola native and earned both a BS in mathematics and a MS in mathematical sciences here at the University of West Florida. I then moved to Birmingham and attended the University of Alabama at Birmingham, where I earned a PhD in biostatistics.
+I am a Pensacola native and earned both a BS in mathematics and a MS in mathematical sciences here at the University of West Florida. I then moved to Birmingham and attended the University of Alabama at Birmingham, where I earned a PhD in biostatistics. 
 
 **Research Areas**
 
