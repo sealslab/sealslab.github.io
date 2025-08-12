@@ -1,0 +1,114 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Seals Lab for Quantitative Science",
+    "section": "",
+    "text": "The Seals Lab for Quantitative Science focuses on three areas:\n\nThe application of statistics to other sciences, such as environmental science, ecology, epidemiology, and medicine.\nSimulation studies to determine what happens when statistical models are misspecified.\nTopics in college- and graduate-level STEM education.\n\nNote: If you are specifically interested in computational environmental science research (either applied statistics or methodological explorations in the context of earth and environmental science), please see the Computational Geomorphology & Modeling Lab."
+  },
+  {
+    "objectID": "pages/research.html",
+    "href": "pages/research.html",
+    "title": "Seals Lab for Quantitative Science",
+    "section": "",
+    "text": "How are our analysis results and overall message affected when we misspecify the design matrix, underlying distribution for the outcome, or the working covariance structure?\nHow are analysis results and overall message affected when we break an assumption (or multiple assumptions) of the parametric model?\nThis area generally involves performing simulation studies. We do this so that we know the true value of θ, the parameter of interest, and can then quantify the effects of model misspecification.\n\nThe bias and mean square error quantify the error in parameter estimation.\nType I error quantifies the error in statistical inference.\n\nModel fit indices quantify the error in model selection.\n\n\n\n\n\n\nHow can we use mathematics and statistics to answer questions about the world around us?\nWe are open to collaborating with any field! Our lab has collaborated across all Colleges at the University of West Florida.\nPlease see the Computational Geomorphology & Modeling Lab for more information about ongoing collaborations with earth & environmental sciences."
+  },
+  {
+    "objectID": "pages/research.html#what-does-the-seals-lab-do",
+    "href": "pages/research.html#what-does-the-seals-lab-do",
+    "title": "Seals Lab for Quantitative Science",
+    "section": "",
+    "text": "How are our analysis results and overall message affected when we misspecify the design matrix, underlying distribution for the outcome, or the working covariance structure?\nHow are analysis results and overall message affected when we break an assumption (or multiple assumptions) of the parametric model?\nThis area generally involves performing simulation studies. We do this so that we know the true value of θ, the parameter of interest, and can then quantify the effects of model misspecification.\n\nThe bias and mean square error quantify the error in parameter estimation.\nType I error quantifies the error in statistical inference.\n\nModel fit indices quantify the error in model selection.\n\n\n\n\n\n\nHow can we use mathematics and statistics to answer questions about the world around us?\nWe are open to collaborating with any field! Our lab has collaborated across all Colleges at the University of West Florida.\nPlease see the Computational Geomorphology & Modeling Lab for more information about ongoing collaborations with earth & environmental sciences."
+  },
+  {
+    "objectID": "pages/research.html#want-to-work-together",
+    "href": "pages/research.html#want-to-work-together",
+    "title": "Seals Lab for Quantitative Science",
+    "section": "Want to work together?",
+    "text": "Want to work together?\n\nAre you are a researcher interested in collaborating with us?\n\nAs a result of my extensive biostatistics training and experience, I truly love collaborating with other researchers, especially students. Please note that our skills are not only applicable to “science” topics – we can help where data exists!\nPlease reach out if you think this may be a good fit! It is a wonderful experience to see how students begin connecting the dots, understanding their role as partners in scientific research.\nThe main expectations within collaborations include a reasonable timeline for project deliverables and formal co-authorship for both the lab director and collaborating student on any resulting presentation or manuscript.\n\n\n\nAre you a student interested in collaborative statistics?\n\nAs a collaborative researcher and educator, I especially enjoy including students in collaborative projects. My goal is to model how to form and maintain respectful and productive collaborative relationships.\nThis side of the lab gives students a formal collaborative experience resulting in a non-statistics or data science-focused research product to showcase to potential employers.\nThe main expectations of collaborative students are a willingness to collaborate outside of your field, learn necessary statistical and/or science concepts, and a willingness to learn and improve your R programming skills.\n\n\n\nAre you a student interested breaking the rules of statistics?\n\nAs a curious mathematician and statistician, I have a lot of “what happens to analysis results when this assumption is broken?” questions ready for students to answer via Proseminar or Capstone.\n\nIf you think about it - you probably do too! Let’s consider OLS regression. We know that OLS assumes that the residuals are normally distributed with mean 0 and some constant standard deviation.\nWhat happens if the residuals have a Poisson distribution? A uniform distribution?\nWhat happens if the standard deviation is not constant? How does this change depending on the level of heterogeneity?\nHow do the observed relationships above change as our sample size increases? (i.e., what are the asymptotic properties?)\n\nThe main expectations of simulation-based students are a willingness to learn necessary mathematical and/or statistical concepts, a willingness to learn and improve their R programming skills, and to have an inherent understanding that research-related things will go very wrong more than once."
+  },
+  {
+    "objectID": "pages/people.html#section",
+    "href": "pages/people.html#section",
+    "title": "Seals Lab for Quantitative Science",
+    "section": "",
+    "text": "Alumni Name\nNow: Data Scientist, Florida Department of Health."
+  },
+  {
+    "objectID": "pages/people.html#section-1",
+    "href": "pages/people.html#section-1",
+    "title": "Seals Lab for Quantitative Science",
+    "section": "",
+    "text": "Hunter Evans, BS, Mathematical Sciences"
+  },
+  {
+    "objectID": "pages/people.html#section-2",
+    "href": "pages/people.html#section-2",
+    "title": "Seals Lab for Quantitative Science",
+    "section": "",
+    "text": "Audrey Moore, MS, Data Science"
+  },
+  {
+    "objectID": "pages/people.html#alumni",
+    "href": "pages/people.html#alumni",
+    "title": "Seals Lab for Quantitative Science",
+    "section": "Alumni",
+    "text": "Alumni\n\n\n Ihsan Buker, BS  Biomedical Sciences\n\n\n Shijie Geng, MS  Data Science\n\n\n Cheyenne Long, BS  Mathematics"
+  },
+  {
+    "objectID": "pages/people.html#section-3",
+    "href": "pages/people.html#section-3",
+    "title": "Seals Lab for Quantitative Science",
+    "section": "",
+    "text": "Angelina Scamardo, Mathematics & Computer Science"
+  },
+  {
+    "objectID": "pages/people.html#section-4",
+    "href": "pages/people.html#section-4",
+    "title": "Seals Lab for Quantitative Science",
+    "section": "",
+    "text": "Alumni Name\nNow: Data Scientist, Florida Department of Health."
+  },
+  {
+    "objectID": "pages/people.html",
+    "href": "pages/people.html",
+    "title": "Seals Lab for Quantitative Science",
+    "section": "",
+    "text": "Dru Adams  Mathematics & Psychology\n\n\n Hunter Evans, BS  Mathematical Sciences\n\n\n Abigail Garman  Mathematics\n\n\n Alex Hatley, BS  Data Science\n\n\n Audrey Moore, MS  Data Science\n\n\n Ashley Ordonez Garcia  Mathematics\n\n\n Angelina Scamardo  Mathematics & Computer Science\n\n\n Marguerite Womack, BS  Mathematical Sciences"
+  },
+  {
+    "objectID": "pages/people.html#members-of-the-seals-lab",
+    "href": "pages/people.html#members-of-the-seals-lab",
+    "title": "Seals Lab for Quantitative Science",
+    "section": "",
+    "text": "Dru Adams  Mathematics & Psychology\n\n\n Hunter Evans, BS  Mathematical Sciences\n\n\n Audrey Moore, MS  Data Science\n\n\n Angelina Scamardo  Mathematics & Computer Science"
+  },
+  {
+    "objectID": "pages/people.html#current-members",
+    "href": "pages/people.html#current-members",
+    "title": "Seals Lab for Quantitative Science",
+    "section": "",
+    "text": "Dru Adams  Mathematics & Psychology\n\n\n Hunter Evans, BS  Mathematical Sciences\n\n\n Abigail Garman  Mathematics\n\n\n Alex Hatley, BS  Data Science\n\n\n Audrey Moore, MS  Data Science\n\n\n Ashley Ordonez Garcia  Mathematics\n\n\n Angelina Scamardo  Mathematics & Computer Science\n\n\n Marguerite Womack, BS  Mathematical Sciences"
+  },
+  {
+    "objectID": "pages/presentations.html",
+    "href": "pages/presentations.html",
+    "title": "Seals Lab for Quantitative Science",
+    "section": "",
+    "text": "Summer 2025:\n\nDru Adams, Temporal Trends in Sea Turtle Nesting: Effects of Environmental and Anthropogenic Events, UWF SURP Symposium 08/2025.\nAngelina Scamardo, From the Sea to Statistics: Using Machine Learning to Predict Sea Turtle Nesting Patterns, UWF MathStat Proseminar 07/2025.\n\nFall 2024:\n\nHunter Evans, Violating Equidispersion: A Comparative Analysis of Poisson and Negative Binomial Regression, UWF MathStat Proseminar 11/2024.\nCheyenne Long, Modeling Sea Turtle Nesting Patterns: How Many Pseudo-Absence Points Are Necessary?, UWF MathStat Proseminar 11/2024."
+  },
+  {
+    "objectID": "pages/packages.html",
+    "href": "pages/packages.html",
+    "title": "Seals Lab for Quantitative Science",
+    "section": "",
+    "text": "This package was developed for use in STA4173 (Biostatistics) at the University of West Florida. All functions were developed to bring a tidy approach to applied statistics, making R syntax consistent and easier to understand for first-time programmers.\nAuthorship:\n\nIhsan Buker: original developer of package, current contributor, maintainer, and cleaner-upper of messes\nDr. Samantha Seals: initial idea, current contributor and developer\n\nLinks:\n\nGitHub: http://github.com/sealslab/ssstats\nCourse implementation: STA4173 - Biostatistics - Summer 2025"
+  },
+  {
+    "objectID": "pages/packages.html#ssstats-a-package-for-introductory-applied-statistics-courses.",
+    "href": "pages/packages.html#ssstats-a-package-for-introductory-applied-statistics-courses.",
+    "title": "Seals Lab for Quantitative Science",
+    "section": "",
+    "text": "This package was developed for use in STA4173 (Biostatistics) at the University of West Florida. All functions were developed to bring a tidy approach to applied statistics, making R syntax consistent and easier to understand for first-time programmers.\nAuthorship:\n\nIhsan Buker: original developer of package, current contributor, maintainer, and cleaner-upper of messes\nDr. Samantha Seals: initial idea, current contributor and developer\n\nLinks:\n\nGitHub: http://github.com/sealslab/ssstats\nCourse implementation: STA4173 - Biostatistics - Summer 2025"
+  }
+]

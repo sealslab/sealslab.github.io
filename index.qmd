@@ -1,0 +1,17 @@
+
+
+::: {.columns}
+::: {.column width="34%"}
+![](files/logo/hex.png){alt="Seals Lab hex logo with penguin at a laptop" width="100%"}
+:::
+::: {.column width="66%"}
+
+The **Seals Lab for Quantitative Science** focuses on three areas:
+
+1. The application of statistics to other sciences, such as environmental science, ecology, epidemiology, and medicine.
+2. Simulation studies to determine what happens when statistical models are misspecified.
+3. Topics in college- and graduate-level STEM education.
+    
+Note: If you are specifically interested in computational environmental science research (either applied statistics or methodological explorations in the context of earth and environmental science), please see the [Computational Geomorphology & Modeling Lab](http://cgmlabuwf.github.io).
+
+:::
