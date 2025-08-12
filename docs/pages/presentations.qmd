@@ -1,7 +1,0 @@
-**Summer 2025:**
-- Dru Aadams, [*Temporal Trends in Sea Turtle Nesting: Effects of Environmental and Anthropogenic Events*](/files/talks/202505_Adams_SURP.pdf), UWF Summer Undergraduate Research Program Symposium 08/2025.
-- Angelina Scamardo, [*Violating Equidispersion: A Comparative Analysis of Poisson and Negative Binomial Regression*](/files/talks/202508_Scamardo_prosem.pdf), UWF MathStat Proseminar 07/2025.
-
-**Fall 2024:**
-- Hunter Evans, [*Violating Equidispersion: A Comparative Analysis of Poisson and Negative Binomial Regression*](/files/talks/202408_Evans_prosem.pdf), UWF MathStat Proseminar 11/2024.
-- Cheyenne Long, [*Modeling Sea Turtle Nesting Patterns: How Many Pseudo-Absence Points Are Necessary?*](/files/talks/202408_Long_prosem.pdf), UWF MathStat Proseminar 11/2024.

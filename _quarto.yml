@@ -1,6 +1,5 @@
 project:
   type: website
-  output-dir: docs   # good for GitHub Pages from main/docs
   preview: 
     port: 4200
     browser: true
