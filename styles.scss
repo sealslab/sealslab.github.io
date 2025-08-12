@@ -1,0 +1,104 @@
+/*-- scss:rules --*/
+
+/* Pastel collapsible details styling */
+.details {
+  border: 2px solid #f8d6e0;
+  border-radius: 10px;
+  padding: 0.75rem 1rem;
+  margin-bottom: 1rem;
+  background-color: #fffafc;
+  box-shadow: 0 2px 4px rgba(171, 131, 197, 0.15);
+}
+
+.details > summary,
+.details > h3,
+.details > h4 {
+  color: #4b3f72;
+  font-weight: 600;
+}
+
+.details summary {
+  cursor: pointer;
+  font-size: 1.1em;
+}
+
+.details[open] {
+  background-color: #fdf6fb;
+  border-color: #a68ac4;
+}
+
+/* People page card styling */
+.cards > .card {
+  background-color: #fffafc;
+  border: 1px solid #f8d6e0;
+  border-radius: 12px;
+  padding: 1rem;
+  text-align: center;
+  box-shadow: 0 2px 6px rgba(171, 131, 197, 0.1);
+}
+
+.cards img {
+  border: 3px solid #a68ac4; /* pastel purple border around photos */
+}
+
+/* 3-up responsive grid */
+.people-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(240px, 1fr));
+  gap: 1.2rem 2rem;
+  align-items: start;
+}
+
+/* individual card */
+.person {
+  text-align: center;
+}
+
+/* uniform square images */
+.people-img {
+  width: 100%;
+  max-width: 220px;   /* controls image size */
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: 12px;
+  border: 3px solid #a68ac4;
+  display: block;
+  margin: 0 auto;
+}
+
+/* responsive: drop to 2 cols on tablets, 1 on phones */
+@media (max-width: 900px) {
+  .people-grid { grid-template-columns: repeat(2, minmax(220px, 1fr)); }
+}
+@media (max-width: 600px) {
+  .people-grid { grid-template-columns: 1fr; } 
+}
+
+/* ===== Link Colors (site-wide) ===== */
+a, a:visited {
+  color: #a68ac4; /* lavender */
+}
+
+a:hover, a:focus {
+  color: #7b4fa0; /* darker purple */
+}
+
+/* ===== Navbar Link Colors ===== */
+.navbar-nav .nav-link {
+  color: #4b3f72 !important; /* muted deep purple text */
+}
+
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link:focus {
+  color: #7b4fa0 !important; /* darker purple on hover */
+}
+
+/* ===== Navbar Icons ===== */
+.navbar-nav .nav-item .bi {
+  vertical-align: middle;
+  color: #4b3f72; /* match text color */
+}
+
+.navbar-nav .nav-item .bi:hover {
+  color: #7b4fa0; /* darker purple on hover */
+}

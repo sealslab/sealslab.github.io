@@ -1,0 +1,76 @@
+## Current Members
+
+::: {.people-grid}
+::: {.person}
+![](/files/headshots/adams_dru.png){.people-img}
+**Dru Adams** <br>
+Mathematics & Psychology
+:::
+
+::: {.person}
+![](/files/headshots/blue.png){.people-img}
+**Hunter Evans, BS** <br>
+Mathematical Sciences
+:::
+
+::: {.person}
+![](/files/headshots/yellow.png){.people-img}
+**Abigail Garman** <br>
+Mathematics
+:::
+
+::: {.person}
+![](/files/headshots/pink.png){.people-img}
+**Alex Hatley, BS** <br>
+Data Science
+:::
+
+::: {.person}
+![](/files/headshots/moore_audrey.jpg){.people-img}
+**Audrey Moore, MS** <br>
+Data Science
+:::
+
+::: {.person}
+![](/files/headshots/yellow.png){.people-img}
+**Ashley Ordonez Garcia** <br>
+Mathematics
+:::
+
+::: {.person}
+![](/files/headshots/scamardo_angelina.jpg){.people-img}
+**Angelina Scamardo** <br>
+Mathematics & Computer Science
+:::
+
+::: {.person}
+![](/files/headshots/purple.png){.people-img}
+**Marguerite Womack, BS** <br>
+Mathematical Sciences
+:::
+:::
+
+
+## Alumni
+
+::: {.people-grid}
+
+::: {.person}
+![](/files/headshots/buker_ihsan.png){.people-img}
+**Ihsan Buker, BS** <br>
+Biomedical Sciences
+:::
+
+::: {.person}
+![](/files/headshots/geng_shijie.png){.people-img}
+**Shijie Geng, MS** <br>
+Data Science
+:::
+
+::: {.person}
+![](/files/headshots/long_cheyenne.jpeg){.people-img}
+**Cheyenne Long, BS** <br>
+Mathematics
+:::
+
+:::

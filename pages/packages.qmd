@@ -1,0 +1,16 @@
+## `ssstats`: a package for introductory applied statistics courses.
+
+This package was developed for use in STA4173 (Biostatistics) at the University of West Florida. All functions were developed to bring a tidy approach to applied statistics, making R syntax consistent and easier to understand for first-time programmers.
+
+**Authorship**:
+
+- Ihsan Buker: original developer of package, current contributor, maintainer, and cleaner-upper of messes
+- Dr. Samantha Seals: initial idea, current contributor and developer
+
+**Links**:
+
+- GitHub: [http://github.com/sealslab/ssstats](http://github.com/sealslab/ssstats)
+- Course implementation: [STA4173 - Biostatistics - Summer 2025](https://samanthaseals.github.io/STA4173Su25/)
+
+
+

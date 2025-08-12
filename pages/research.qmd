@@ -1,0 +1,61 @@
+---
+toc: false
+---
+
+## What does the Seals Lab do?
+
+::: {.details}
+### *Methodological: model misspecification in the frequentist framework*
+
+- How are our analysis results and overall message affected when we misspecify the design matrix, underlying distribution for the outcome, or the working covariance structure?
+- How are analysis results and overall message affected when we break an assumption (or multiple assumptions) of the parametric model?
+- This area generally involves performing simulation studies. We do this so that we know the true value of *θ*, the parameter of interest, and can then quantify the effects of model misspecification.  
+    - The bias and mean square error quantify the error in parameter estimation.
+    - Type I error quantifies the error in statistical inference.  
+    - Model fit indices quantify the error in model selection.
+    
+:::
+
+::: {.details}
+### *Collaborative: using statistics to answer (your!) research questions*
+
+- How can we use mathematics and statistics to answer questions about the world around us? 
+- We are open to collaborating with any field! Our lab has collaborated across all Colleges at the University of West Florida.
+- Please see the [*Computational Geomorphology & Modeling Lab*](https://cgmlabuwf.github.io/) for more information about ongoing collaborations with earth & environmental sciences.
+
+:::
+
+
+## Want to work together?
+
+::: {.details}
+### *Are you are a researcher interested in collaborating with us?*
+
+- As a result of my extensive biostatistics training and experience, I truly love collaborating with other researchers, especially students. Please note that our skills are not only applicable to "science" topics -- we can help where data exists!
+- Please reach out if you think this may be a good fit! It is a wonderful experience to see how students begin connecting the dots, understanding their role as partners in scientific research.
+- The main expectations within collaborations include a reasonable timeline for project deliverables and formal co-authorship for both the lab director and collaborating student on any resulting presentation or manuscript.
+    
+:::
+
+::: {.details}
+### *Are you a student interested in collaborative statistics?*
+
+- As a collaborative researcher and educator, I especially enjoy including students in collaborative projects. My goal is to model how to form and maintain respectful and productive collaborative relationships.
+- This side of the lab gives students a formal collaborative experience resulting in a non-statistics or data science-focused research product to showcase to potential employers. 
+- The main expectations of collaborative students are a willingness to collaborate outside of your field, learn necessary statistical and/or science concepts, and a willingness to learn and improve your R programming skills.
+    
+:::
+
+::: {.details}
+### *Are you a student interested breaking the rules of statistics?*
+
+- As a curious mathematician and statistician, I have a lot of "what happens to analysis results when this assumption is broken?" questions ready for students to answer via Proseminar or Capstone.
+    - If you think about it - you probably do too! Let's consider OLS regression. We know that OLS assumes that the residuals are normally distributed with mean 0 and some constant standard deviation.
+    - What happens if the residuals have a Poisson distribution? A uniform distribution?
+    - What happens if the standard deviation is not constant? How does this change depending on the level of heterogeneity?
+    - How do the observed relationships above change as our sample size increases? (i.e., what are the asymptotic properties?)
+- The main expectations of simulation-based students are a willingness to learn necessary mathematical and/or statistical  concepts, a willingness to learn and improve their R programming skills, and to have an inherent understanding that research-related things will go very wrong more than once.
+    
+:::
+
+

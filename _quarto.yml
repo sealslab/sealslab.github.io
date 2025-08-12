@@ -1,0 +1,40 @@
+project:
+  type: website
+  preview: 
+    port: 4200
+    browser: true
+
+website:
+  title: "Seals Lab for Quantitative Science"
+  description: "Statistics and Data Science Education and Research"
+  site-url: "https://sealslab.github.io"
+  search: false
+  navbar:
+    background: "#f8d6e0"    # pastel pink
+    foreground: "#4b3f72"    # deep muted purple for contrast
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        href: pages/research.qmd
+      - text: "Packages"
+        href: pages/packages.qmd
+      - text: "People"
+        href: pages/people.qmd
+      - text: "Presentations"
+        href: pages/presentations.qmd
+    right:
+      - icon: github
+        href: "https://github.com/sealslab"
+
+format:
+  html:
+    theme:
+      light: [flatly, styles.scss]
+    mainfont: "Lato"
+    monofont: "Fira Code"
+    toc: false
+    toc-depth: 3
+    page-layout: full
+    linkcolor: "#a68ac4"   # lavender link color
+    fontsize: 1.05em
