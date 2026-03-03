@@ -2,15 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://sealslab.github.io/pages/presentations.html</loc>
-    <lastmod>2025-08-12T02:32:16.480Z</lastmod>
+    <lastmod>2026-03-03T15:52:26.788Z</lastmod>
   </url>
   <url>
     <loc>https://sealslab.github.io/pages/people.html</loc>
-    <lastmod>2025-08-12T02:32:16.479Z</lastmod>
+    <lastmod>2026-03-03T17:38:59.127Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sealslab.github.io/pages/teaching.html</loc>
+    <lastmod>2026-03-03T17:10:05.650Z</lastmod>
   </url>
   <url>
     <loc>https://sealslab.github.io/index.html</loc>
-    <lastmod>2025-08-12T02:32:16.479Z</lastmod>
+    <lastmod>2026-03-03T16:08:16.540Z</lastmod>
   </url>
   <url>
     <loc>https://sealslab.github.io/pages/research.html</loc>
@@ -18,6 +22,6 @@
   </url>
   <url>
     <loc>https://sealslab.github.io/pages/packages.html</loc>
-    <lastmod>2025-08-12T02:32:16.479Z</lastmod>
+    <lastmod>2026-03-03T17:33:00.991Z</lastmod>
   </url>
 </urlset>

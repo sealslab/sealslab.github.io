@@ -4,28 +4,42 @@
     "href": "pages/presentations.html",
     "title": "Seals Lab for Quantitative Science",
     "section": "",
-    "text": "Summer 2025:\n\nDru Adams, Temporal Trends in Sea Turtle Nesting: Effects of Environmental and Anthropogenic Events, UWF SURP Symposium 08/2025.\nAngelina Scamardo, From the Sea to Statistics: Using Machine Learning to Predict Sea Turtle Nesting Patterns, UWF MathStat Proseminar 07/2025.\n\nFall 2024:\n\nHunter Evans, Violating Equidispersion: A Comparative Analysis of Poisson and Negative Binomial Regression, UWF MathStat Proseminar 11/2024.\nCheyenne Long, Modeling Sea Turtle Nesting Patterns: How Many Pseudo-Absence Points Are Necessary?, UWF MathStat Proseminar 11/2024."
+    "text": "Spring 2026:\n\nRachel Hudson, BS, TBA, UWF Data Science Capstone, 04/2026.\nJeanne McClure, PhD, TBA, UWF Data Science Capstone, 04/2026.\nAudrey Moore, MS, TBA, UWF Data Science Capstone, 04/2026.\n\nFall 2025:\n\nAbigail Garman, Maternal Predictors of Breastfeeding Duration in the ITFPS-2 Study, UWF MathStat Proseminar 11/2025.\nAshley Ordonez Garcia, Comparing False Crawls and Pseudo-Absence Pointswhen Modeling Sea Turtle Nesting on Pensacola Beach (& corresponding paper), UWF MathStat Proseminar 11/2025.\n\nSummer 2025:\n\nDru Adams, Temporal Trends in Sea Turtle Nesting: Effects of Environmental and Anthropogenic Events, UWF SURP Symposium 08/2025.\nAngelina Scamardo, From the Sea to Statistics: Using Machine Learning to Predict Sea Turtle Nesting Patterns, UWF MathStat Proseminar 07/2025.\n\nFall 2024:\n\nHunter Evans, Violating Equidispersion: A Comparative Analysis of Poisson and Negative Binomial Regression, UWF MathStat Proseminar 11/2024.\nCheyenne Long, Modeling Sea Turtle Nesting Patterns: How Many Pseudo-Absence Points Are Necessary?, UWF MathStat Proseminar 11/2024."
   },
   {
     "objectID": "pages/people.html",
     "href": "pages/people.html",
     "title": "Seals Lab for Quantitative Science",
     "section": "",
-    "text": "Dru Adams  Mathematics & Psychology\n\n\n Hunter Evans, BS  Mathematical Sciences\n\n\n Abigail Garman  Mathematics\n\n\n Alex Hatley, BS  Data Science\n\n\n Audrey Moore, MS  Data Science\n\n\n Ashley Ordonez Garcia  Mathematics\n\n\n Angelina Scamardo  Mathematics & Computer Science\n\n\n Marguerite Womack, BS  Mathematical Sciences"
+    "text": "Dr. Samantha Seals is an Associate Professor of Statistics in the Department of Mathematics and Statistics at the University of West Florida.\nDr. Seals holds a PhD in Biostatistics from the University of Alabama at Birmingham, a MS in Mathematical Sciences from the University of West Florida, and a BS in Mathematics from the University of West Florida. Dr. Seals won the Charles R. Katholi Distinguished Dissertation Award in 2013, the UWF Faculty Excellence in Teaching Award in 2022, and the UWF Faculty Excellence in Undergraduate Research Mentoring Award in 2023.\nDr. Seals is especially passionate about collaborative statistics and training the next generation of statisticians, biostatisticians, and data scientists. Please see the Computational Geomorphology & Modeling Lab for more information about our work in Computational Environmental Science."
+  },
+  {
+    "objectID": "pages/people.html#director-dr.-samantha-seals",
+    "href": "pages/people.html#director-dr.-samantha-seals",
+    "title": "Seals Lab for Quantitative Science",
+    "section": "",
+    "text": "Dr. Samantha Seals is an Associate Professor of Statistics in the Department of Mathematics and Statistics at the University of West Florida.\nDr. Seals holds a PhD in Biostatistics from the University of Alabama at Birmingham, a MS in Mathematical Sciences from the University of West Florida, and a BS in Mathematics from the University of West Florida. Dr. Seals won the Charles R. Katholi Distinguished Dissertation Award in 2013, the UWF Faculty Excellence in Teaching Award in 2022, and the UWF Faculty Excellence in Undergraduate Research Mentoring Award in 2023.\nDr. Seals is especially passionate about collaborative statistics and training the next generation of statisticians, biostatisticians, and data scientists. Please see the Computational Geomorphology & Modeling Lab for more information about our work in Computational Environmental Science."
   },
   {
     "objectID": "pages/people.html#current-members",
     "href": "pages/people.html#current-members",
     "title": "Seals Lab for Quantitative Science",
-    "section": "",
-    "text": "Dru Adams  Mathematics & Psychology\n\n\n Hunter Evans, BS  Mathematical Sciences\n\n\n Abigail Garman  Mathematics\n\n\n Alex Hatley, BS  Data Science\n\n\n Audrey Moore, MS  Data Science\n\n\n Ashley Ordonez Garcia  Mathematics\n\n\n Angelina Scamardo  Mathematics & Computer Science\n\n\n Marguerite Womack, BS  Mathematical Sciences"
+    "section": "Current Members",
+    "text": "Current Members\n\n\n Dru Adams  Mathematics\n\n\n Abigail Garman  Mathematics\n\n\n Rachel Hudson, BS  Data Science\n\n\n Jeanne McClure, PhD  Data Science\n\n\n Audrey Moore, MS  Data Science\n\n\n Angelina Scamardo  Mathematics & Computer Science\n\n\n Marguerite Womack, BS  Mathematical Sciences"
   },
   {
     "objectID": "pages/people.html#alumni",
     "href": "pages/people.html#alumni",
     "title": "Seals Lab for Quantitative Science",
     "section": "Alumni",
-    "text": "Alumni\n\n\n Ihsan Buker, BS  Biomedical Sciences\n\n\n Shijie Geng, MS  Data Science\n\n\n Cheyenne Long, BS  Mathematics"
+    "text": "Alumni\n\n\n Ihsan Buker, BS  Biomedical Sciences\n\n\n Hunter Evans, BS  Mathematical Sciences\n\n\n Shijie Geng, MS  Data Science\n\n\n Cheyenne Long, BS  Mathematics\n\n\n Ashley Ordonez Garcia  Mathematics"
+  },
+  {
+    "objectID": "pages/teaching.html",
+    "href": "pages/teaching.html",
+    "title": "Seals Lab for Quantitative Science",
+    "section": "",
+    "text": "Spring 2026:\n\nOffice hours: Dr. Seals is on sabbatical for the Spring 2026 semester. Please email her to schedule a meeting time.\nSTA4012/STA5015: Data in Society\nSTA4231/STA6232: Statistics for Data Science II\n\nFall 2025:\n\nSTA4173: Biostatistics\nSTA6349: Applied Bayesian Analysis\nSTA4231/STA6232: Statistics for Data Science II\n\nSummer 2025:\n\nSTA4173: Biostatistics\nSTA6349: Applied Bayesian Analysis\nSTA4231/STA6232: Statistics for Data Science II"
   },
   {
     "objectID": "index.html",
@@ -58,15 +72,8 @@
   {
     "objectID": "pages/packages.html",
     "href": "pages/packages.html",
-    "title": "Seals Lab for Quantitative Science",
+    "title": "ssstats: a package for applied statistics courses",
     "section": "",
-    "text": "This package was developed for use in STA4173 (Biostatistics) at the University of West Florida. All functions were developed to bring a tidy approach to applied statistics, making R syntax consistent and easier to understand for first-time programmers.\nAuthorship:\n\nIhsan Buker: original developer of package, current contributor, maintainer, and cleaner-upper of messes\nDr. Samantha Seals: initial idea, current contributor and developer\n\nLinks:\n\nGitHub: http://github.com/sealslab/ssstats\nCourse implementation: STA4173 - Biostatistics - Summer 2025"
-  },
-  {
-    "objectID": "pages/packages.html#ssstats-a-package-for-introductory-applied-statistics-courses.",
-    "href": "pages/packages.html#ssstats-a-package-for-introductory-applied-statistics-courses.",
-    "title": "Seals Lab for Quantitative Science",
-    "section": "",
-    "text": "This package was developed for use in STA4173 (Biostatistics) at the University of West Florida. All functions were developed to bring a tidy approach to applied statistics, making R syntax consistent and easier to understand for first-time programmers.\nAuthorship:\n\nIhsan Buker: original developer of package, current contributor, maintainer, and cleaner-upper of messes\nDr. Samantha Seals: initial idea, current contributor and developer\n\nLinks:\n\nGitHub: http://github.com/sealslab/ssstats\nCourse implementation: STA4173 - Biostatistics - Summer 2025"
+    "text": "ssstats: a package for applied statistics courses\n\n\n\n\nThis package was developed for use in applied statistics courses at the University of West Florida. All functions were developed to bring a tidy approach to applied statistics, making R syntax consistent and easier to understand for first-time programmers.\n\n\nAuthorship:\n\nIhsan Buker: original developer of package, current contributor, maintainer, and cleaner-upper of messes\nDr. Samantha Seals: current developer and maker of messes.\n\nLinks:\n\nGitHub repo (with install instructions): http://github.com/sealslab/ssstats\nCourse implementations:\n\nSTA4173 - Biostatistics - Fall 2025\nSTA4231/STA6232 - Statistics for Data Science II"
   }
 ]
