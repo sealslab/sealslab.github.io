@@ -4,7 +4,7 @@
     "href": "pages/presentations.html",
     "title": "Seals Lab for Quantitative Science",
     "section": "",
-    "text": "Spring 2026:\n\nRachel Hudson, BS, TBA, UWF Data Science Capstone, 04/2026.\nJeanne McClure, PhD, TBA, UWF Data Science Capstone, 04/2026.\nAudrey Moore, MS, TBA, UWF Data Science Capstone, 04/2026.\n\nFall 2025:\n\nAbigail Garman, Maternal Predictors of Breastfeeding Duration in the ITFPS-2 Study, UWF MathStat Proseminar 11/2025.\nAshley Ordonez Garcia, Comparing False Crawls and Pseudo-Absence Pointswhen Modeling Sea Turtle Nesting on Pensacola Beach (& corresponding paper), UWF MathStat Proseminar 11/2025.\n\nSummer 2025:\n\nDru Adams, Temporal Trends in Sea Turtle Nesting: Effects of Environmental and Anthropogenic Events, UWF SURP Symposium 08/2025.\nAngelina Scamardo, From the Sea to Statistics: Using Machine Learning to Predict Sea Turtle Nesting Patterns, UWF MathStat Proseminar 07/2025.\n\nFall 2024:\n\nHunter Evans, Violating Equidispersion: A Comparative Analysis of Poisson and Negative Binomial Regression, UWF MathStat Proseminar 11/2024.\nCheyenne Long, Modeling Sea Turtle Nesting Patterns: How Many Pseudo-Absence Points Are Necessary?, UWF MathStat Proseminar 11/2024."
+    "text": "Spring 2026:\n\nRachel Hudson, BS, The Nature of Time Series Analysis: Exploring Gulf Coast Turtle Nesting Activity, UWF Data Science Capstone, 04/2026.\nJeanne McClure, PhD, Precisely Wrong: How Pseudo-Absence Inflation Biases Parameter Estimates and Degrades Credible Interval Coverage in Bayesian Logistic Regression, UWF Data Science Capstone, 04/2026.\nAudrey Moore, MS, Comparing Random Forest and Gradient Boosted Decision Tree Models in Sea Turtle Nesting Classification, UWF Data Science Capstone, 04/2026.\n\nFall 2025:\n\nAbigail Garman, Maternal Predictors of Breastfeeding Duration in the ITFPS-2 Study, UWF MathStat Proseminar 11/2025.\nAshley Ordonez Garcia, Comparing False Crawls and Pseudo-Absence Pointswhen Modeling Sea Turtle Nesting on Pensacola Beach (& corresponding paper), UWF MathStat Proseminar 11/2025.\nAngelina Scamardo, From the Sea to Statistics: Using Machine Learning to Predict Sea Turtle Nesting Patterns, American Geophysical Union’s Annual Meeting 12/2025.\nDru Adams, Temporal Trends in Sea Turtle Nesting: Effects of Environmental and Anthropogenic Events, American Geophysical Union’s Annual Meeting 12/2025.\n\nSummer 2025:\n\nDru Adams, Temporal Trends in Sea Turtle Nesting: Effects of Environmental and Anthropogenic Events, UWF SURP Symposium 08/2025.\nAngelina Scamardo, From the Sea to Statistics: Using Machine Learning to Predict Sea Turtle Nesting Patterns, UWF MathStat Proseminar 07/2025.\n\nFall 2024:\n\nHunter Evans, Violating Equidispersion: A Comparative Analysis of Poisson and Negative Binomial Regression, UWF MathStat Proseminar 11/2024.\nCheyenne Long, Modeling Sea Turtle Nesting Patterns: How Many Pseudo-Absence Points Are Necessary?, UWF MathStat Proseminar 11/2024."
   },
   {
     "objectID": "pages/people.html",
@@ -25,21 +25,21 @@
     "href": "pages/people.html#current-members",
     "title": "Seals Lab for Quantitative Science",
     "section": "Current Members",
-    "text": "Current Members\n\n\n Dru Adams  Mathematics\n\n\n Abigail Garman  Mathematics\n\n\n Rachel Hudson, BS  Data Science\n\n\n Jeanne McClure, PhD  Data Science\n\n\n Audrey Moore, MS  Data Science\n\n\n Angelina Scamardo  Mathematics & Computer Science\n\n\n Marguerite Womack, BS  Mathematical Sciences"
+    "text": "Current Members\n\n\n Abigail Garman, BS  Mathematics\n\n\n Angelina Scamardo, BS  Mathematics & Computer Science\n\n\n Marguerite Womack, BS  Mathematical Sciences"
   },
   {
     "objectID": "pages/people.html#alumni",
     "href": "pages/people.html#alumni",
     "title": "Seals Lab for Quantitative Science",
     "section": "Alumni",
-    "text": "Alumni\n\n\n Ihsan Buker, BS  Biomedical Sciences\n\n\n Hunter Evans, BS  Mathematical Sciences\n\n\n Shijie Geng, MS  Data Science\n\n\n Cheyenne Long, BS  Mathematics\n\n\n Ashley Ordonez Garcia  Mathematics"
+    "text": "Alumni\n\n\n Dru Adams  Mathematics\n\n\n Ihsan Buker, BS  Biomedical Sciences\n\n\n Hunter Evans, BS  Mathematical Sciences\n\n\n Shijie Geng, MS  Data Science\n\n\n Rachel Hudson, BS, MS  Data Science\n\n\n Cheyenne Long, BS  Mathematics\n\n\n Ashley Ordonez Garcia, BS  Mathematics\n\n\n Jeanne McClure, PhD  Data Science\n\n\n Audrey Moore, MS  Data Science"
   },
   {
     "objectID": "pages/teaching.html",
     "href": "pages/teaching.html",
     "title": "Seals Lab for Quantitative Science",
     "section": "",
-    "text": "Spring 2026:\n\nOffice hours: Dr. Seals is on sabbatical for the Spring 2026 semester. Please email her to schedule a meeting time.\nSTA4012/STA5015: Data in Society\nSTA4231/STA6232: Statistics for Data Science II\n\nFall 2025:\n\nSTA4173: Biostatistics\nSTA6349: Applied Bayesian Analysis\nSTA4231/STA6232: Statistics for Data Science II\n\nSummer 2025:\n\nSTA4173: Biostatistics\nSTA6349: Applied Bayesian Analysis\nSTA4231/STA6232: Statistics for Data Science II"
+    "text": "Summer 2026:\n\nOffice hours: MW 2:00 pm – 4:00 pm, online only (Zoom)\nSTA2023: Elements of Statistics\nSTA4231/STA6232: Statistics for Data Science II\nSTA6349: Applied Bayesian Analysis\n\nSpring 2026: (sabbatical)\n\nSTA4012/STA5015: Data in Society\nSTA4231/STA6232: Statistics for Data Science II\n\nFall 2025:\n\nSTA4173: Biostatistics\nSTA6349: Applied Bayesian Analysis\nSTA4231/STA6232: Statistics for Data Science II\n\nSummer 2025:\n\nSTA4173: Biostatistics\nSTA6349: Applied Bayesian Analysis\nSTA4231/STA6232: Statistics for Data Science II"
   },
   {
     "objectID": "index.html",
